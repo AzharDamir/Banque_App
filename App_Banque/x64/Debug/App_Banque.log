@@ -1,0 +1,5 @@
+﻿  Compte.cpp
+  OperationR.cpp
+  Génération de code en cours...
+C:\Users\azhar damir\Source\Repos\App_Banque\App_Banque\Compte.cpp(99): warning C4715: 'Banque::Compte::comparer_moitier' : les chemins de contrôle ne retournent pas tous une valeur
+  App_Banque.vcxproj -> C:\Users\azhar damir\Source\Repos\App_Banque\x64\Debug\App_Banque.lib
